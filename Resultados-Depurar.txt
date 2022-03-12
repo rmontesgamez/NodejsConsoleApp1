@@ -1,0 +1,3 @@
+﻿Verbose logs are written to:
+C:\Users\rmont\AppData\Local\Temp\visualstudio-js-debugger.txt
+El programa 'app.js' terminó con código -1 (0xffffffff).
